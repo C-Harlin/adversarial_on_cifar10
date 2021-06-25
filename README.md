@@ -16,3 +16,4 @@
 | DeepFool | 7.07% | -2.47e-02 |
 | C&W | 86.28% | 4.77e-03 |
 
+Note that DeepFool got extremely successful attack rate, but most of distorted images are perceptible.
